@@ -1,0 +1,15 @@
+.alert{
+    margin-top: 10px !important;
+}
+
+.alert b{
+    color: white !important;
+}
+
+.alert-warning{
+    background-color: orange !important;
+}
+
+.alert-success{
+    background-color: green !important;
+}
